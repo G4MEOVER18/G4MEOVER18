@@ -55,5 +55,7 @@ Unabhängiger Sicherheitsforscher mit Fokus auf **USB-Angriffsflächen**, **Web 
 Wenn diese Projekte deiner Sicherheitsforschung geholfen haben — jeder Beitrag ermöglicht weitere Hardware-Beschaffung und Forschungszeit:
 
 > **Bitcoin:** `39vZWmnUwDReQ15BwqQXzyqVQ6U8LardEf`
+> 
+> **PayPal:** [paypal.me/Freakbank1](https://paypal.me/Freakbank1)
 
 Beiträge und Bug-Reports zu allen Repos sind willkommen — MIT-lizenziert.
