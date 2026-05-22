@@ -1,47 +1,56 @@
-# Yanis Ameseder — Security Researcher
+# Yanis Ameseder — Sicherheitsforscher / Security Researcher
 
-Independent security researcher focused on **USB attack surface**, **web application security**, and **Windows driver exploitation**. Building open-source offensive tools for authorized penetration testing and driver security research.
+Unabhängiger Sicherheitsforscher mit Fokus auf **USB-Angriffsflächen**, **Web Application Security** und **Windows-Treiberexploitation**. Ich baue quelloffene Offensive-Tools für autorisierte Penetrationstests und Sicherheitsforschung.
 
 ---
 
-## Active Projects
+## 🔧 Aktive Projekte
 
 ### Hardware Security
-| Repo | Description |
+
+| Repo | Beschreibung |
 |------|-------------|
-| [stm32-usb-fuzzer](https://github.com/G4MEOVER18/stm32-usb-fuzzer) | Hardware USB descriptor fuzzer on STM32F103C8T6 — 30 attack modes targeting `usbhub.sys`, `usbccgp.sys`, `hidparse.sys`, `usbstor.sys` |
+| [stm32-usb-fuzzer](https://github.com/G4MEOVER18/stm32-usb-fuzzer) | Hardware-USB-Descriptor-Fuzzer auf STM32F103C8T6 — 30 Angriffsmodi gegen `usbhub.sys`, `usbccgp.sys`, `hidparse.sys`, `usbstor.sys` |
+| [usb-army-penetrator](https://github.com/G4MEOVER18/usb-army-penetrator) | USB/WiFi-Penetrationstesting-Plattform auf ESP32 — BadUSB, HID, Netzwerk-Emulation, WiFi Marauder, VNC, Agent *(Fork von [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife))* |
 
 ### Web Application Security
-| Repo | Description |
+
+| Repo | Beschreibung |
 |------|-------------|
-| [jwt-pwn](https://github.com/G4MEOVER18/jwt-pwn) | JWT attack toolkit: `alg:none`, RS256→HS256 confusion, claim tampering, `kid` injection, HMAC brute-force |
-| [cors-scanner](https://github.com/G4MEOVER18/cors-scanner) | CORS misconfiguration scanner: reflected origins, null origin, subdomain/suffix bypass, credential leakage |
-| [http-header-auditor](https://github.com/G4MEOVER18/http-header-auditor) | OWASP security header auditor: HSTS, CSP, X-Frame-Options, Referrer-Policy, information disclosure |
+| [jwt-pwn](https://github.com/G4MEOVER18/jwt-pwn) | JWT-Angriffs-Toolkit: `alg:none`, RS256→HS256 Confusion, Claim-Manipulation, `kid`-Injection, HMAC-Brute-Force |
+| [cors-scanner](https://github.com/G4MEOVER18/cors-scanner) | CORS-Fehlkonfigurations-Scanner: reflektierte Origins, Null-Origin, Subdomain/Suffix-Bypass |
+| [http-header-auditor](https://github.com/G4MEOVER18/http-header-auditor) | OWASP HTTP-Sicherheits-Header-Prüfer: HSTS, CSP, X-Frame-Options, Referrer-Policy |
+| [subdomain-takeover-scanner](https://github.com/G4MEOVER18/subdomain-takeover-scanner) | Subdomain-Takeover-Scanner: 30+ Provider-Fingerprints, NXDOMAIN-Erkennung, concurrent |
+| [web-recon-toolkit](https://github.com/G4MEOVER18/web-recon-toolkit) | Web-Reconnaissance-Toolkit: Tech-Fingerprinting, Dir-Brute-Force, E-Mail-Harvesting, DNS, Wayback |
 
 ---
 
-## Research Areas
+## Forschungsschwerpunkte
 
-- **Windows USB driver stack** — kernel pool allocation patterns, descriptor parser edge cases, driver rebind races
-- **Web auth vulnerabilities** — JWT, OAuth, session management, CORS
-- **Embedded firmware** — STM32, ESP32, hardware attack surfaces
-- **CVE research** — actively targeting CVE-2024-21429 class issues in `usbhub.sys`
-
----
-
-## Philosophy
-
-All tools are built with a focus on:
-- **Zero dependencies** where possible (Python stdlib, C only)
-- **Authorised use** — every tool includes clear legal disclaimers
-- **Educational value** — documented attack theory, not just PoC
+- **Windows USB-Treiber-Stack** — Kernel-Pool-Allokationen, Descriptor-Parser-Schwachstellen, Treiber-Rebind-Races
+- **Web-Auth-Schwachstellen** — JWT, OAuth, Session Management, CORS, HTTP-Header
+- **Embedded Firmware** — STM32, ESP32, Hardware-Angriffsflächen
+- **CVE-Forschung** — aktiv zu CVE-2024-21429-Klasse in `usbhub.sys`
 
 ---
 
-## Contact
+## Prinzipien
 
-- Email: g4me.over.18@gmail.com
-- All tools MIT licensed — contributions and bug reports welcome
+- **Keine externen Abhängigkeiten** wo möglich (Python stdlib, reines C)
+- **Nur autorisierter Einsatz** — alle Tools enthalten klare rechtliche Hinweise
+- **Bildungswert** — dokumentierte Angriffstheorie, nicht nur PoC
 
-**Support this research:**  
-Bitcoin: `39vZWmnUwDReQ15BwqQXzyqVQ6U8LardEf`
+---
+
+## Kontakt
+
+- E-Mail: g4me.over.18@gmail.com
+- Alle Tools MIT-lizenziert — Beiträge und Bug-Reports willkommen
+
+---
+
+## Unterstützung / Donations
+
+Wenn diese Tools deiner Sicherheitsforschung geholfen haben:
+
+**Bitcoin:** `39vZWmnUwDReQ15BwqQXzyqVQ6U8LardEf`
