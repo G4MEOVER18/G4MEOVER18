@@ -63,9 +63,7 @@ Ab **August 2026** starte ich den TECH-Track der Digital Talents Academy am GBW 
 
 | Projekt | Stand |
 |---------|-------|
-| ESP32-LCD-Time-SD-FTP | ESP32-S3 Dashboard mit NTP, SD-Logging, FTP-Server, WebUI |
 | SmartTag | Multi-Radio Low-Power Tracker (LoRa + BLE + GNSS) |
-| RadioGateway | ESP32 MQTT/LoRa-Gateway |
 | SoundNode | ESP32 Cheap Yellow Display als MP3-Player (ESP-IDF) |
 | StoneBook | KI-gestütztes Analyse- und Datenbank-Tool für Edel- und Mineralsteine |
 
