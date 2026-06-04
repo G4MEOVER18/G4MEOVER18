@@ -25,7 +25,6 @@ Ab **August 2026** starte ich den TECH-Track der Digital Talents Academy am GBW 
 |------|-------------|
 | [stm32-usb-fuzzer](https://github.com/G4MEOVER18/stm32-usb-fuzzer) | Hardware-USB-Descriptor-Fuzzer auf STM32F103C8T6 — 30 Angriffsmodi gegen `usbhub.sys`, `usbccgp.sys`, `hidparse.sys`, `usbstor.sys`, `winusb.sys`. BSOD-Reproduktion, autonome Registry-Manipulation |
 | [usb-army-penetrator](https://github.com/G4MEOVER18/usb-army-penetrator) | USB/WiFi-Penetrationstesting auf ESP32 — BadUSB, HID, Mass Storage, WiFi Marauder, Remote Agent, VNC *(Fork: [USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife))* |
-| [dogytag-firmware](https://github.com/G4MEOVER18/dogytag-firmware) | Multi-Radio Haustier-Tracking: LoRaWAN EU868 OTAA + Raw LoRa 868/433 MHz + BLE-Geofence + GPS — XIAO ESP32S3, Heltec Tracker, CubeCell |
 
 ---
 
