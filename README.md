@@ -1,3 +1,80 @@
+Wer ich bin:
+
+Ich bin 31 Jahre alt, habe 14 Jahren im Strassen- und Tiefbau gearbeitet und Baustellen für meine Mittarbeiter geführt. Jedoch war das nicht erfüllend. Nun möchte ich mir meiner waren Beruffung seid der Kindheit nachgehen und durch ein Einstieg in die Informationstechnologie, Platformentwickler werden und mich später richtung Cybersecurity weiterbilden.
+
+Oft wirken meine Gedankengänge sprunghaft oder assoziativ , waren aber stets für Fachkundige nachvollziehbar und führten letztlich zu einer kohärenten Idee, die in mehreren Dokumentationen festgehalten wurde. Ich versuche oft mögliche Missverständnisse selbstkritisch aufzuklären.
+
+Ich bin kein klassisch ausgebildeter Informatiker.
+Ich bin ein Denker. Ein Ideenarbeiter. Eine Art „Ideenfabrik mit neuronaler Übertaktung“ – und manchmal Bugs.
+
+Meine Gedanken verlaufen selten linear.
+Meine Gedanken springen, verknüpfen, erkennen Muster dort, wo sie noch keiner sucht. Was für manche wie Reizüberflutung wirkt, ist für mich Rohstoff – Inspiration, Analyse, logischer Schaltkreis.
+
+Was ich tue:
+
+Ich lerne und erkunde intressensgetrieben diverse Technische Projekte diverser Soft- und Hardware Bereiche. Ich verfolge eine Vielzahl eigener Projekte in diversen Bereichen. Ap und an auch wo es bessere oder einfachere Lösungen bereits gibt, aber der Lernefekt kommt da, wo Schwierigkeiten und Probleme auftauchen denen andere lieber aus dem Weg gehen. Ich erdenke und entwickle Proof-of-Concepts, in denen keine, Schadsoftware steckt – sondern Denkmodelle mit Beispielen zu Instruktionen. Ich zerlege Systeme nicht, um sie zu brechen, sondern um zu verstehen, wo sie sich selbst widersprechen.
+
+Meine Werkzeuge:
+
+Neugier
+Struktur
+Markdown, Python, Batch und Interesse für Verständniss
+Klarheit, Reduktion
+Ein Hirn, das gleichzeitig in mehreren Themen denkt und das gelegentlich flackert
+Selbstbeschreibung
+
+Autodidaktischer Freak mit besonderem Denkstil: verknüpfend, vorausschauend, strukturiert. Spezialisiert auf systemnahe Konzepte, reproduzierbare Risiken und kreative Wege, Komplexität verständlich zu machen.
+
+Überzeugungen & Haltung:
+Das Einzige, was ich weiß, ist, dass ich nichts weiß.
+Alles beginnt mit einer Frage.
+Die besten Fragen beginnen mit: „Was wäre, wenn …?“
+Titelvorschläge mit Charakter:
+Ideengetriebener Konzeptanalytiker
+Systemnaher Sicherheitsdenker (autodidaktisch)
+„Ich sehe nicht, was ist – ich sehe, was sein könnte.
+Und dann überlege ich, was wäre, wenn es jemand ausnutzt.“
+– Yanis Ameseder, 2025
+
+
+IT-Portfolio 
+
+Über mich
+Selbstständiger Security-Denker & Systemanalyst (ohne formale IT-Ausbildung) Ich bin ein engagierter Quereinsteiger mit wachsender Spezialisierung auf IT-Systeme, Netzwerktechnologie und Cybersecurity. Der TECH-Track der Digital Talents Academy ab August 2026 dient als Sprungbrett für meine berufliche Neuorientierung. Ich baue, teste und betreibe Systeme dort, wo Hardware, Netzwerke, Virtualisierung, Linux, Container, Embedded/IoT und lokale KI ineinandergreifen. Mein Stil ist: Hypothese → Test → Logs → Fix → Dokumentation. Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst aufgebaut habe: Homelab/Proxmox, KI-Stack, RAG-Workflows, Funk/Embedded (LoRa/BLE/GNSS), Debugging von Boot-/Update-Problemen und praxisnahe Netzwerk-Themen. Ich entwickle meine IT-Kompetenzen konsequent über reale Systeme: Proxmox-VMs, Storage-Konzepte, Docker-Services, SSH-/Zero-Trust-Zugriff, lokale KI-Workflows und Embedded-Funktests. Ich arbeite strukturiert, dokumentiere Entscheidungen, sammle Logs, baue reproduzierbare Setups und lerne sichtbar durch Debugging.
+
+Technische Schwerpunkte
+Python (GUI, Netzwerk, Automatisierung)
+Windows/Linux-Administration, Batch, PowerShell
+Virtualisierung & Betrieb: Proxmox, Hyper-V, VM-Design (UEFI/OVMF, Cloud-Init), saubere Storage-Trennung (OS vs. Daten)
+Linux & Services: systemd/OpenRC, Nginx Reverse Proxy, Docker/Compose, Logs/Healthchecks
+Remote & Sicherheit:** Cloudflare Tunnel/Access, SSH key-only, „Remote-Zugriff darf nie verloren gehen“ als Betriebsregel
+Lokale KI: Ollama + OpenWebUI, Tool-Server (REST), RAG-Ingest-Pipeline, klare Datenpfade/Caches
+IoT/Funk: ESP32-S3, LoRa (SX1262/SX1278), BLE, GNSS (u-blox NEO, ...), MQTT-Telemetrie
+WLAN-Scanner & Netzwerkanalyse mit OUI-Datenbank
+Diverse Firmware für Mikrocontroller
+Software-Builds mit PyInstaller & Signatur
+Cybersecurity, Systemhärtung, ethisches Hacking
+KI System mit Model-Orchestrierung und Modellquantisierung
+Multi-VM OpenClaw AI-Agentensystem auf Proxmox mit Gateway-Orchestrierung, isolierten Runner-VMs (Sandbox, Hardware-Flash, Admin), automatischer Cloud-Init-Provisionierung, Skill-Integration und sicherer Web-UI-Steuerung
+Projekte
+Systemanalyse-Tool: GUI-Export von Hardwaredaten, RAM/Mainboard/BIOS
+NetzwerkAnalyseTool: WLAN-/Portscanner mit Subnetzerkennung & OUI-Auflösung
+BLE Beacon-Simulator: Flipper Zero & ROG Ally mit Android/Discord-Integration
+Infrastruktur-Lab: Aufbau lokaler Server-Topologien mit virtuellen Maschinen
+**Noch nicht umgesetzte Ideen werden nach fertigstellung oder Publizierung ergänzt - sehr vieles in arbeit!
+Projekte in Arbei!!
+ESP32-LCD-Time-SD-FTP: ESP32‑S3 Dashboard mit Uhrzeit (NTP), SD‑Logging mit FTP-Server , webUI und Display
+StoneBoock Multi-KI-Analyse-und-Datenbank-Tool (für Edel-/Steine & Mineralien)
+SmartTag: Multi-Radio-LowPower-Tracker (secret)
+RadioGateway: RadioGateway-ESP32-MQTT-LoRa-Gateway
+ESP32S3-MiniPwn-Dashboard: ESP32‑S3 Display‑Dashboard
+SoundNode: ESP-IDF Projekt (ESP32 cheap yellow display als MP3 Player)
+TFT-AutoProbe: Mini‑Sketch zum schnellen Verifizieren von TFT_eSPI Setup
+Ausbildung & Perspektive
+Ab August 2026: Zertifikatslehrgang „Digital Talents Academy – TECH-Track“
+Gewerbliches Berufs- und Weiterbildungszentrum St.Gallen
+
+
 # Yanis Ameseder — Sicherheitsforscher
 
 Unabhängiger Sicherheitsforscher mit Fokus auf **USB-Angriffsflächen**, **Web Application Security**, **Embedded Firmware** und **Windows-Treiberexploitation**. Alle Tools für autorisierte Penetrationstests und Sicherheitsforschung — quelloffen, dokumentiert, keine externen Abhängigkeiten wo möglich.
