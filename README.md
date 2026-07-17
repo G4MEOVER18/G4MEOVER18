@@ -512,7 +512,7 @@ Ich bin IT-Quereinsteiger und baue mein Portfolio sichtbar über reale Projekte 
 Ab **August 2026**:
 
 **Digital Talents Academy – TECH-Track**  
-Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen
+**Schulungsstandort:** ispo St. Gallen
 
 Ziel:
 
