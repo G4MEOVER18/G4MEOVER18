@@ -8,7 +8,15 @@ Ich bin kein klassisch ausgebildeter Informatiker. Meine IT-Kompetenz kommt aus 
 
 > Was passiert eigentlich, wenn man das so macht?
 
-Ab **August 2026** starte ich den **TECH-Track der Digital Talents Academy am GBW St. Gallen** als strukturierten Einstieg in die Informatik. Bis dahin baue ich weiter: Tools, Labore, Scanner, Embedded-Systeme, KI-Workflows, Sicherheitskonzepte und dokumentierte Proof-of-Concepts.
+Seit **August 2026** besuche ich den **TECH-Track der Digital Talents Academy am GBW St. Gallen** als strukturierten Einstieg in die Informatik. Bis dahin baue ich weiter: Tools, Labore, Scanner, Embedded-Systeme, KI-Workflows, Sicherheitskonzepte und dokumentierte Proof-of-Concepts.
+
+---
+
+## 🌐 Live-Portfolio & Tool-Hub
+
+**→ [g4meover18.github.io](https://g4meover18.github.io)**
+
+Interaktiver Durchgang durch alle Tools und Repos, **ESP32-Web-Flasher** (Firmware direkt im Browser via Web Serial) und **Flipper-Zero-Firmware-Hub** — an einem Ort.
 
 ---
 
@@ -512,7 +520,7 @@ Ich bin IT-Quereinsteiger und baue mein Portfolio sichtbar über reale Projekte 
 Ab **August 2026**:
 
 **Digital Talents Academy – TECH-Track**  
-**Schulungsstandort:** ispo St. Gallen
+Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen
 
 Ziel:
 
